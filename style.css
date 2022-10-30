@@ -1,0 +1,19 @@
+table{
+  
+    background-color: #00FFFF;
+    border-collapse: collapse;
+    margin-left: 500px;
+   
+
+
+   
+    
+
+}
+
+table td{
+    border-width: 1px;
+    font-family: sans-serif;
+    border-style: solid;
+    padding: 10px;
+}
